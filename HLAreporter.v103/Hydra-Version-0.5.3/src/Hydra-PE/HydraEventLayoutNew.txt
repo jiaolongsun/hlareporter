@@ -1,0 +1,28 @@
+
+
+
+
+
+
+2. chrom1
+* 4. minStart1
+* 5. maxEnd1
+2. chrom2
+* 4. minStart2
+* 5. maxEnd2
+* 1. contigId
+* 21. Distinct Pairs
+8. strand1
+9. strand2
+11. meanMM1 
+12. meanMM2
+13. meanMappings1
+14. meanMappings2
+10. contigSize
+* 17. numPairs
+* 18. allWeightedSupport
+* 19. finalSupport
+* 20. finalWeightedSupport
+22. numUniq
+23. numAnch
+24. numMult

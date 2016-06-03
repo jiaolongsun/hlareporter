@@ -1,0 +1,237 @@
+1	A*01:01	China Jiangsu Han	0.0370	3,238	See
+2	A*02:01	China Jiangsu Han	0.1300	3,238	See
+3	A*02:03	China Jiangsu Han	0.0230	3,238	See
+4	A*02:05	China Jiangsu Han	0.0030	3,238	See
+5	A*02:06	China Jiangsu Han	0.0560	3,238	See
+6	A*02:07	China Jiangsu Han	0.0670	3,238	See
+7	A*02:10	China Jiangsu Han	0.0040	3,238	See
+8	A*02:53N	China Jiangsu Han	0.0010	3,238	See
+9	A*03:01	China Jiangsu Han	0.0290	3,238	See
+10	A*03:02	China Jiangsu Han	0.0020	3,238	See
+11	A*11:01	China Jiangsu Han	0.1650	3,238	See
+12	A*11:02	China Jiangsu Han	0.0030	3,238	See
+13	A*11:03	China Jiangsu Han	0.0010	3,238	See
+14	A*23:01	China Jiangsu Han	0.0040	3,238	See
+15	A*24:02	China Jiangsu Han	0.1510	3,238	See
+16	A*24:03	China Jiangsu Han	0.0010	3,238	See
+17	A*24:04	China Jiangsu Han	0.0010	3,238	See
+18	A*24:07	China Jiangsu Han	0.0020	3,238	See
+19	A*24:08	China Jiangsu Han	0.0010	3,238	See
+20	A*24:20	China Jiangsu Han	0.0030	3,238	See
+21	A*26:01	China Jiangsu Han	0.0270	3,238	See
+22	A*29:01	China Jiangsu Han	0.0050	3,238	See
+23	A*29:02	China Jiangsu Han	0.0020	3,238	See
+24	A*30:01	China Jiangsu Han	0.1110	3,238	See
+25	A*30:02	China Jiangsu Han	0.0002	3,238	See
+26	A*30:04	China Jiangsu Han	0.0005	3,238	See
+27	A*31:01	China Jiangsu Han	0.0307	3,238	See
+28	A*31:17	China Jiangsu Han	0.0003	3,238	See
+29	A*32:01	China Jiangsu Han	0.0168	3,238	See
+30	A*33:01	China Jiangsu Han	0.0015	3,238	See
+31	A*33:03	China Jiangsu Han	0.1118	3,238	See
+32	A*33:10	China Jiangsu Han	0.0002	3,238	See
+33	A*34:01	China Jiangsu Han	0.0002	3,238	See
+34	A*66:01	China Jiangsu Han	0.0003	3,238	See
+35	A*68:01	China Jiangsu Han	0.0056	3,238	See
+36	A*68:02	China Jiangsu Han	0.0003	3,238	See
+37	A*69:01	China Jiangsu Han	0.0031	3,238	See
+1	B*07:02	China Jiangsu Han	0.0215	3,238	See
+2	B*07:05	China Jiangsu Han	0.0028	3,238	See
+3	B*08:01	China Jiangsu Han	0.0088	3,238	See
+4	B*13:01	China Jiangsu Han	0.0358	3,238	See
+5	B*13:02	China Jiangsu Han	0.1160	3,238	See
+6	B*14:01	China Jiangsu Han	0.0003	3,238	See
+7	B*14:02	China Jiangsu Han	0.0017	3,238	See
+8	B*15:01	China Jiangsu Han	0.0469	3,238	See
+9	B*15:02	China Jiangsu Han	0.0210	3,238	See
+10	B*15:03	China Jiangsu Han	0.0003	3,238	See
+11	B*15:05	China Jiangsu Han	0.0008	3,238	See
+12	B*15:07	China Jiangsu Han	0.0046	3,238	See
+13	B*15:08	China Jiangsu Han	0.0002	3,238	See
+14	B*15:10	China Jiangsu Han	0.0002	3,238	See
+15	B*15:11	China Jiangsu Han	0.0255	3,238	See
+16	B*15:12	China Jiangsu Han	0.0017	3,238	See
+17	B*15:13	China Jiangsu Han	0.0005	3,238	See
+18	B*15:17	China Jiangsu Han	0.0030	3,238	See
+19	B*15:18	China Jiangsu Han	0.0130	3,238	See
+20	B*15:25	China Jiangsu Han	0.0040	3,238	See
+21	B*15:27	China Jiangsu Han	0.0130	3,238	See
+22	B*15:35	China Jiangsu Han	0.0010	3,238	See
+23	B*15:58	China Jiangsu Han	0.0010	3,238	See
+24	B*18:01	China Jiangsu Han	0.0030	3,238	See
+25	B*27:04	China Jiangsu Han	0.0100	3,238	See
+26	B*27:05	China Jiangsu Han	0.0120	3,238	See
+27	B*27:06	China Jiangsu Han	0.0010	3,238	See
+28	B*27:07	China Jiangsu Han	0.0020	3,238	See
+29	B*35:01	China Jiangsu Han	0.0240	3,238	See
+30	B*35:02	China Jiangsu Han	0.0020	3,238	See
+31	B*35:03	China Jiangsu Han	0.0090	3,238	See
+32	B*35:05	China Jiangsu Han	0.0030	3,238	See
+33	B*35:08	China Jiangsu Han	0.0010	3,238	See
+34	B*37:01	China Jiangsu Han	0.0110	3,238	See
+35	B*38:01	China Jiangsu Han	0.0040	3,238	See
+36	B*38:02	China Jiangsu Han	0.0210	3,238	See
+37	B*39:01	China Jiangsu Han	0.0140	3,238	See
+38	B*39:05	China Jiangsu Han	0.0020	3,238	See
+39	B*40:01	China Jiangsu Han	0.0660	3,238	See
+40	B*40:02	China Jiangsu Han	0.0200	3,238	See
+41	B*40:03	China Jiangsu Han	0.0030	3,238	See
+42	B*40:06	China Jiangsu Han	0.0340	3,238	See
+43	B*40:40	China Jiangsu Han	0.0020	3,238	See
+44	B*41:01	China Jiangsu Han	0.0010	3,238	See
+45	B*44:02	China Jiangsu Han	0.0070	3,238	See
+46	B*44:03	China Jiangsu Han	0.0440	3,238	See
+47	B*45:01	China Jiangsu Han	0.0020	3,238	See
+48	B*46:01	China Jiangsu Han	0.0890	3,238	See
+49	B*48:01	China Jiangsu Han	0.0230	3,238	See
+50	B*48:03	China Jiangsu Han	0.0010	3,238	See
+51	B*49:01	China Jiangsu Han	0.0010	3,238	See
+52	B*50:01	China Jiangsu Han	0.0060	3,238	See
+53	B*51:01	China Jiangsu Han	0.0460	3,238	See
+54	B*51:02	China Jiangsu Han	0.0110	3,238	See
+55	B*52:01	China Jiangsu Han	0.0400	3,238	See
+56	B*54:01	China Jiangsu Han	0.0370	3,238	See
+57	B*55:01	China Jiangsu Han	0.0010	3,238	See
+58	B*55:02	China Jiangsu Han	0.0220	3,238	See
+59	B*55:07	China Jiangsu Han	0.0010	3,238	See
+60	B*55:12	China Jiangsu Han	0.0010	3,238	See
+61	B*56:01	China Jiangsu Han	0.0020	3,238	See
+62	B*56:03	China Jiangsu Han	0.0010	3,238	See
+63	B*56:04	China Jiangsu Han	0.0010	3,238	See
+64	B*57:01	China Jiangsu Han	0.0150	3,238	See
+65	B*58:01	China Jiangsu Han	0.0710	3,238	See
+66	B*59:01	China Jiangsu Han	0.0030	3,238	See
+67	B*67:01	China Jiangsu Han	0.0070	3,238	See
+68	B*81:01	China Jiangsu Han	0.0020	3,238	See
+1	C*01:02	China South Han pop 2	0.2017	1,098	See
+2	C*01:03	China South Han pop 2	0.0027	1,098	See
+3	C*01:06	China South Han pop 2	0.0005	1,098	See
+4	C*01:08	China South Han pop 2	0.0005	1,098	See
+5	C*01:30	China South Han pop 2	0.0005	1,098	See
+6	C*02:02	China South Han pop 2	0.0041	1,098	See
+7	C*03:02	China South Han pop 2	0.0929	1,098	See
+8	C*03:03	China South Han pop 2	0.0551	1,098	See
+9	C*03:04	China South Han pop 2	0.1207	1,098	See
+10	C*03:07	China South Han pop 2	0.0005	1,098	See
+11	C*03:17	China South Han pop 2	0.0009	1,098	See
+12	C*04:01	China South Han pop 2	0.0478	1,098	See
+13	C*04:03	China South Han pop 2	0.0132	1,098	See
+14	C*04:06	China South Han pop 2	0.0005	1,098	See
+15	C*04:15	China South Han pop 2	0.0005	1,098	See
+16	C*05:01	China South Han pop 2	0.0018	1,098	See
+17	C*06:02	China South Han pop 2	0.0310	1,098	See
+18	C*06:24	China South Han pop 2	0.0005	1,098	See
+19	C*07:01	China South Han pop 2	0.0023	1,098	See
+20	C*07:02	China South Han pop 2	0.1776	1,098	See
+21	C*07:04	China South Han pop 2	0.0050	1,098	See
+22	C*07:06	China South Han pop 2	0.0027	1,098	See
+23	C*07:43	China South Han pop 2	0.0000	1,098	See
+24	C*07:56	China South Han pop 2	0.0005	1,098	See
+25	C*07:66	China South Han pop 2	0.0009	1,098	See
+26	C*07:67	China South Han pop 2	0.0005	1,098	See
+27	C*08:01	China South Han pop 2	0.0993	1,098	See
+28	C*08:02	China South Han pop 2	0.0018	1,098	See
+29	C*08:03	China South Han pop 2	0.0032	1,098	See
+30	C*08:20	China South Han pop 2	0.0005	1,098	See
+31	C*08:21	China South Han pop 2	0.0000	1,098	See
+32	C*08:27	China South Han pop 2	0.0005	1,098	See
+33	C*12:02	China South Han pop 2	0.0301	1,098	See
+34	C*12:03	China South Han pop 2	0.0214	1,098	See
+35	C*14:02	China South Han pop 2	0.0383	1,098	See
+36	C*14:03	China South Han pop 2	0.0032	1,098	See
+37	C*15:02	China South Han pop 2	0.0287	1,098	See
+38	C*15:05	China South Han pop 2	0.0059	1,098	See
+39	C*15:07	China South Han pop 2	0.0005	1,098	See
+40	C*15:13	China South Han pop 2	0.0000	1,098	See
+41	C*15:17	China South Han pop 2	0.0005	1,098	See
+42	C*16:01	China South Han pop 2	0.0000	1,098	See
+43	C*16:02	China South Han pop 2	0.0009	1,098	See
+44	C*16:04	China South Han pop 2	0.0005	1,098	See
+45	C*17:01	China South Han pop 2	0.0005	1,098	See
+1	DRB1*01:01	China Jiangsu Han	0.0230	3,238	See
+2	DRB1*01:02	China Jiangsu Han	0.0020	3,238	See
+3	DRB1*03:01	China Jiangsu Han	0.0490	3,238	See
+4	DRB1*04:01	China Jiangsu Han	0.0100	3,238	See
+5	DRB1*04:02	China Jiangsu Han	0.0020	3,238	See
+6	DRB1*04:03	China Jiangsu Han	0.0120	3,238	See
+7	DRB1*04:04	China Jiangsu Han	0.0100	3,238	See
+8	DRB1*04:05	China Jiangsu Han	0.0550	3,238	See
+9	DRB1*04:06	China Jiangsu Han	0.0300	3,238	See
+10	DRB1*04:07	China Jiangsu Han	0.0030	3,238	See
+11	DRB1*04:08	China Jiangsu Han	0.0020	3,238	See
+12	DRB1*04:10	China Jiangsu Han	0.0020	3,238	See
+13	DRB1*07:01	China Jiangsu Han	0.1580	3,238	See
+14	DRB1*08:02	China Jiangsu Han	0.0050	3,238	See
+15	DRB1*08:03	China Jiangsu Han	0.0580	3,238	See
+16	DRB1*08:04	China Jiangsu Han	0.0010	3,238	See
+17	DRB1*08:09	China Jiangsu Han	0.0010	3,238	See
+18	DRB1*09:01	China Jiangsu Han	0.1530	3,238	See
+19	DRB1*10:01	China Jiangsu Han	0.0140	3,238	See
+20	DRB1*11:01	China Jiangsu Han	0.0420	3,238	See
+21	DRB1*11:04	China Jiangsu Han	0.0050	3,238	See
+22	DRB1*11:28	China Jiangsu Han	0.0002	3,238	See
+23	DRB1*12:01	China Jiangsu Han	0.0377	3,238	See
+24	DRB1*12:02	China Jiangsu Han	0.0735	3,238	See
+25	DRB1*12:08	China Jiangsu Han	0.0003	3,238	See
+26	DRB1*13:01	China Jiangsu Han	0.0113	3,238	See
+27	DRB1*13:02	China Jiangsu Han	0.0579	3,238	See
+28	DRB1*13:03	China Jiangsu Han	0.0003	3,238	See
+29	DRB1*13:07	China Jiangsu Han	0.0006	3,238	See
+30	DRB1*13:12	China Jiangsu Han	0.0031	3,238	See
+31	DRB1*14:01	China Jiangsu Han	0.0029	3,238	See
+32	DRB1*14:02	China Jiangsu Han	0.0002	3,238	See
+33	DRB1*14:03	China Jiangsu Han	0.0048	3,238	See
+34	DRB1*14:04	China Jiangsu Han	0.0062	3,238	See
+35	DRB1*14:05	China Jiangsu Han	0.0201	3,238	See
+36	DRB1*14:06	China Jiangsu Han	0.0002	3,238	See
+37	DRB1*14:07	China Jiangsu Han	0.0020	3,238	See
+38	DRB1*14:10	China Jiangsu Han	0.0003	3,238	See
+39	DRB1*14:18	China Jiangsu Han	0.0006	3,238	See
+40	DRB1*14:49	China Jiangsu Han	0.0002	3,238	See
+41	DRB1*15:01	China Jiangsu Han	0.0976	3,238	See
+42	DRB1*15:02	China Jiangsu Han	0.0298	3,238	See
+43	DRB1*15:04	China Jiangsu Han	0.0002	3,238	See
+44	DRB1*16:01	China Jiangsu Han	0.0003	3,238	See
+45	DRB1*16:02	China Jiangsu Han	0.0162	3,238	See
+1	DQB1*02:01	China Canton Han	0.1210	264	See
+2	DQB1*03:01	China Canton Han	0.2420	264	See
+3	DQB1*03:02	China Canton Han	0.0700	264	See
+4	DQB1*03:03	China Canton Han	0.1500	264	See
+5	DQB1*03:05	China Canton Han	0.0040	264	See
+6	DQB1*04:01	China Canton Han	0.0400	264	See
+7	DQB1*04:02	China Canton Han	0.0080	264	See
+8	DQB1*05:01	China Canton Han	0.0340	264	See
+9	DQB1*05:02	China Canton Han	0.1100	264	See
+10	DQB1*05:03	China Canton Han	0.0300	264	See
+11	DQB1*06:01	China Canton Han	0.1120	264	See
+12	DQB1*06:02	China Canton Han	0.0380	264	See
+13	DQB1*06:03	China Canton Han	0.0090	264	See
+14	DQB1*06:04	China Canton Han	0.0080	264	See
+15	DQB1*06:09	China Canton Han	0.0190	264	See
+16	DQB1*06:10	China Canton Han	0.0060	264	See
+1	DQA1*01:01	China Canton Han	0.0980	264	See
+2	DQA1*01:02	China Canton Han	0.2010	264	See
+3	DQA1*01:03	China Canton Han	0.0660	264	See
+4	DQA1*02:01	China Canton Han	0.0570	264	See
+5	DQA1*03:01	China Canton Han	0.2670	264	See
+6	DQA1*04:01	China Canton Han	0.0060	264	See
+7	DQA1*05:01	China Canton Han	0.1840	264	See
+8	DQA1*06:01	China Canton Han	0.1210	264	See
+1	DPB1*01:01	China Canton Han	0.0210	264	See
+2	DPB1*02:01	China Canton Han	0.1400	264	See
+3	DPB1*02:02	China Canton Han	0.0930	264	See
+4	DPB1*03:01	China Canton Han	0.0660	264	See
+5	DPB1*04:01	China Canton Han	0.0950	264	See
+6	DPB1*04:02	China Canton Han	0.0270	264	See
+7	DPB1*05:01	China Canton Han	0.3600	264	See
+8	DPB1*09:01	China Canton Han	0.0150	264	See
+9	DPB1*13:01	China Canton Han	0.0870	264	See
+10	DPB1*14:01	China Canton Han	0.0300	264	See
+11	DPB1*16:01	China Canton Han	0.0020	264	See
+12	DPB1*17:01	China Canton Han	0.0190	264	See
+13	DPB1*19:01	China Canton Han	0.0130	264	See
+14	DPB1*21:01	China Canton Han	0.0230	264	See
+15	DPB1*28:01	China Canton Han	0.0020	264	See
+16	DPB1*38:01	China Canton Han	0.0020	264	See
+17	DPB1*41:01	China Canton Han	0.0040	264	See
+18	DPB1*48:01	China Canton Han	0.0020	264	See

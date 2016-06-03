@@ -1,0 +1,2 @@
+program:../bin/blastall
+options:-a 8 -F F -p blastn -m 7

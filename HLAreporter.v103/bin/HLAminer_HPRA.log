@@ -1,0 +1,121 @@
+../bin/HLAminer.pl [v1.0.5]
+Derivation of HLA class I and II predictions from Shotgun sequence datasets
+-b NA
+-r NA
+-c NA
+-a aln.sam
+-h ../database/HLA_ABC_CDS.fasta
+-p ../database/hla_nom_p.txt
+-z 200
+-i 99
+-q 30
+-s 500
+-n 0
+
+Alignments to HLA
+-----------------
+legend
++:Coding variant seen by another contig previously
+RBH:Reciprocal Best Hit (if applicable)
+
+Contig/Read pair,HLA [% HSP/% CONTIG/READ PAIR]
+
+----------------------------------------------------------------------
+Gene,HLA Supertype/Group,Protein coding allele,Score,Validated by N Contigs,x=contig seen,Chance (%),Expect (Eval) value,Confidence Score (-10 * log10(P))
+*Score = sum(Sz * cov * seq.id. * 2 [RBH])
+*P HLA = (P tig1 is HLA * P HLA is tig 1) * (P tig2 is HLA * P HLA is tig 2) * .. * (P tig(n) is HLA * P HLA is tig n) where P tig x is HLA = sum(P HLA for tig x)
+----------------------------------------------------------------------
+
+HLA-A
+
+HLA-B
+
+HLA-C
+
+HLA-E
+
+HLA-F
+
+HLA-G
+
+HLA-DPA1
+
+HLA-DPB1
+
+HLA-DQA1
+
+HLA-DQB1
+
+HLA-DRA
+
+HLA-DRB1
+
+HLA-DRB2
+
+HLA-DRB3
+
+HLA-DRB4
+
+HLA-DRB5
+
+HLA-DRB6
+
+HLA-DRB7
+
+HLA-DRB8
+
+HLA-DRB9
+
+------------------------------------------------------------------------------------------
+SUMMARY 
+MOST LIKELY HLA-I ALLELES (Confidence (-10 * log10(Eval)) >= 30 Score >= 500)
+Gene,Prediction rank,Group,Allele,Score,Expect (Eval) value,Confidence (-10 * log10(Eval))
+------------------------------------------------------------------------------------------
+
+HLA-A
+
+HLA-B
+
+HLA-C
+
+HLA-E
+
+HLA-F
+
+HLA-G
+
+
+------------------------------------------------------------------------------------------
+SUMMARY 
+MOST LIKELY HLA-II ALLELES (Confidence (-10 * log10(Eval)) >= 30 Score >= 500)
+Gene,Prediction rank,Group,Allele,Score,Expect (Eval) value,Confidence (-10 * log10(Eval))
+------------------------------------------------------------------------------------------
+
+HLA-DPA1
+
+HLA-DPB1
+
+HLA-DQA1
+
+HLA-DQB1
+
+HLA-DRA
+
+HLA-DRB1
+
+HLA-DRB2
+
+HLA-DRB3
+
+HLA-DRB4
+
+HLA-DRB5
+
+HLA-DRB6
+
+HLA-DRB7
+
+HLA-DRB8
+
+HLA-DRB9
+

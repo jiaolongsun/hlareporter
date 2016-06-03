@@ -1,0 +1,15 @@
+HLAreporter version 1.0.3
+By Bill
+Contact bill0[at]connect[dot]hku[dot]hk
+
+This toolkit is designed for accurate HLA detection from NGS data. For now the focus is on the most complex HLA genes HLA-A, HLA-B, HLA-C, HLA-DRB1, HLA-DQB1, HLA-DRB3, HLA-DRB4, HLA-DRB5, and a few other genes.
+
+HLAreporter is based on a multiple reference mapping strategy for preliminery classification of sequencing reads. The targeted reads go through a de novo assembly framework which was originally developed by Warren, where necessary modification on the scource code has been made for accurate HLA detection. If you like, you can change assembler yourselves freely based on this framework.
+
+Please ensure a high quality of input for HLA detection. Do NOT use data with too short read length like 36 bp as this tool is based on de novo assembly, where extremely short reads are expected to worsen the assembly performance and affect the accuracy. We recommand users use >=90 bp sequencing reads. And for your reference, we recommend an input data with at least 30 folds of coverage depth at EACH targeted nucleotide location on HLA (Our test shows that 20 folds of depth, i.e. 20x%=100%, is already capable of generating satisfactory results).
+
+To use HLAreporter, please ensure that perl, bwa, and samtools are ready on your Linux/Unix platform. Current perl path on authors' platform is /usr/bin/perl and please change it accordingly if necessary. Or you may simply run Init.sh for initialization of this program. Please put your input fastq files in the same directory with HLAreporter.sh. And you are good to go. Detection output will be in report.out. Please contact authors if you could not get it running.
+
+Any bug you encounter with this version, please feel free to contact the authors. Have fun with it!
+
+2014-11
