@@ -17,7 +17,7 @@ if [[ $2 = "HLA_A" || $2 = "HLA_B" || $2 = "HLA_C" ]]; then
 	bwa aln exon23_high_resolution_multi_ref.fa $1_2_exon23_high_resolution_multi_ref_mappedreads_target.fq > $1_2_$2_qc.sai
 	bwa sampe exon23_high_resolution_multi_ref.fa $1_1_$2_qc.sai $1_2_$2_qc.sai $1_1_exon23_high_resolution_multi_ref_mappedreads_target.fq $1_2_exon23_high_resolution_multi_ref_mappedreads_target.fq > $1_$2_qc.sam 
 	samtools view -bS $1_$2_qc.sam > $1_$2_qc.bam
-	samtools sort $1_$2_qc.bam $1_$2_qc_sorted
+	samtools sort $1_$2_qc.bam -o $1_$2_qc_sorted.bam
 	samtools index $1_$2_qc_sorted.bam
 fi
 
@@ -33,7 +33,7 @@ if [[ $2 = "HLA_DRB1" || $2 = "HLA_DQB1" || $2 = "HLA_DRB3" || $2 = "HLA_DRB4" |
 	bwa aln exon23_high_resolution_multi_ref.fa $1_2_exon23_high_resolution_multi_ref_mappedreads_target.fq > $1_2_$2_qc.sai
 	bwa sampe exon23_high_resolution_multi_ref.fa $1_1_$2_qc.sai $1_2_$2_qc.sai $1_1_exon23_high_resolution_multi_ref_mappedreads_target.fq $1_2_exon23_high_resolution_multi_ref_mappedreads_target.fq > $1_$2_qc.sam 
 	samtools view -bS $1_$2_qc.sam > $1_$2_qc.bam
-	samtools sort $1_$2_qc.bam $1_$2_qc_sorted
+	samtools sort $1_$2_qc.bam -o $1_$2_qc_sorted.bam
 	samtools index $1_$2_qc_sorted.bam
 fi
 
